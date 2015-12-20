@@ -1,0 +1,21 @@
+[submodule "gst/gst-plugins-base"]
+	path = gst/gst-plugins-base
+	url = https://github.com/GStreamer/gst-plugins-base.git
+[submodule "gst/gst-plugins-good"]
+	path = gst/gst-plugins-good
+	url = https://github.com/GStreamer/gst-plugins-good.git
+[submodule "gst/gstreamer"]
+	path = gst/gstreamer
+	url = https://github.com/GStreamer/gstreamer.git
+[submodule "gst/gst-plugins-ugly"]
+	path = gst/gst-plugins-ugly
+	url = https://github.com/GStreamer/gst-plugins-ugly.git
+[submodule "libvpx"]
+	path = libvpx
+	url = https://github.com/webmproject/libvpx.git
+[submodule "openh264"]
+	path = openh264
+	url = https://github.com/cisco/openh264.git
+[submodule "libav"]
+	path = libav
+	url = https://github.com/libav/libav.git
